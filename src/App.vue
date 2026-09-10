@@ -1,7 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Home from "./pages/Home/Home.vue";
 </script>
 
 <template>
-  <HelloWorld />
+  <Home />
 </template>
